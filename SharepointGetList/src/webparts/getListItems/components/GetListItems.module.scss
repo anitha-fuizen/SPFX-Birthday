@@ -1,0 +1,26 @@
+@import '~@fluentui/react/dist/sass/References.scss';
+
+// .getListItems {
+//   overflow: hidden;
+//   padding: 1em;
+//   color: "[theme:bodyText, default: #323130]";
+//   color: var(--bodyText);
+//   &.teams {
+//     font-family: $ms-font-family-fallbacks;
+//   }
+// }
+
+ ul{
+  font-family: "Brush Script MT, cursive";
+   font-size:20px;
+ }
+p>img{
+  height:80px;
+  width:110px;
+}
+.container{
+  color:red;
+}
+.birthday-wish{
+  font-family: fantasy;
+}
